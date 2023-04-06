@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61bd1034-c126-42c5-afd5-1c571df8b326" name="Changes" comment="Created first exercise1">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/exercise2.java" afterDir="false" />
+    <list default="true" id="61bd1034-c126-42c5-afd5-1c571df8b326" name="Changes" comment="Created second exercise">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/exercise3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +58,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680794659198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created second exercise">
+      <created>1680795277139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680795277139</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created first exercise1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created first exercise1" />
+    <MESSAGE value="Created second exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created second exercise" />
   </component>
 </project>
