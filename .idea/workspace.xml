@@ -22,6 +22,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="420bbd9d-94ea-417d-875e-9a93809c8d4b" />
+        <option name="url" value="git@github.com:diroy41/CoreJavaBasics" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2O3fPmw7n43TSbE3MTULv90APgs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
